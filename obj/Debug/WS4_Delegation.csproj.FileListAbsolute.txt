@@ -1,0 +1,7 @@
+C:\Users\liabel\source\repos\WS4_Delegation\WS4_Delegation\bin\Debug\WS4_Delegation.exe.config
+C:\Users\liabel\source\repos\WS4_Delegation\WS4_Delegation\bin\Debug\WS4_Delegation.exe
+C:\Users\liabel\source\repos\WS4_Delegation\WS4_Delegation\bin\Debug\WS4_Delegation.pdb
+C:\Users\liabel\source\repos\WS4_Delegation\WS4_Delegation\obj\Debug\WS4_Delegation.csprojAssemblyReference.cache
+C:\Users\liabel\source\repos\WS4_Delegation\WS4_Delegation\obj\Debug\WS4_Delegation.csproj.CoreCompileInputs.cache
+C:\Users\liabel\source\repos\WS4_Delegation\WS4_Delegation\obj\Debug\WS4_Delegation.exe
+C:\Users\liabel\source\repos\WS4_Delegation\WS4_Delegation\obj\Debug\WS4_Delegation.pdb
